@@ -1,32 +1,29 @@
-body{
+body {
   background-color: aliceblue;
-border:5px solid darkblue;
-
+  border: 5px solid darkblue;
 }
+
 h1 {
-display: flex;
-flex-direction: column;
-background-color: lightblue;
-border:5px solid darkblue;
+  display: flex;
+  flex-direction: column;
+  background-color: lightblue;
+  border: 5px solid darkblue;
 }
 
-nav{color: deepskyblue;
-font-weight:bold;
-
+nav {
+  color: deepskyblue;
+  font-weight: bold;
 }
+
 ul {
-color: blue;
-font-weight:bold;
-background-color: aquamarine;
-border:5px solid darkblue;
-
+  color: blue;
+  font-weight: bold;
+  background-color: aquamarine;
+  border: 5px solid darkblue;
 }
 
-
-
-
-footer{
-  border:5px solid darkblue;
-font-weight:bold;
-background-color: cyan;
+footer {
+  border: 5px solid darkblue;
+  font-weight: bold;
+  background-color: cyan;
 }
