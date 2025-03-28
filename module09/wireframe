@@ -6,30 +6,30 @@
 </head>
 <body>
 <header>
-  <h1>[Header: Fun Facts]</h1>
+  <h1>[Header: Fun facts about Pets]</h1>
 </header>
 <nav>
   [Links to More Information]
   <ul>
-    <li><a href="[URL 1]">[Link 1]</a></li>
-    <li><a href="[URL 2]">[Link 2]</a></li>
-    <li><a href="[URL 3]">[Link 3]</a></li>
+    <li><a href="[URL 1]">[Link 1 to Petsmart]</a></li>
+    <li><a href="[URL 2]">[Link 2 to Petco ]</a></li>
+    <li><a href="[URL 3]">[Link 3 to Naperville Humane Society]</a></li>
   </ul>
 </nav>
 <main>
   <ul>
-    <li>[Fact 1]</li>
-    <li>[Fact 2]</li>
-    <li>[Fact 3]</li>
-    <li>[Fact 4]</li>
-    <li>[Fact 5]</li>
-    <li>[Fact 6]</li>
+    <li>[Fact number 1]</li>
+    <li>[Fact number 2]</li>
+    <li>[Fact number 3]</li>
+    <li>[Fact number 4]</li>
+    <li>[Fact number 5]</li>
+    <li>[Fact number 6]</li>
   </ul>
   <picture>
     [Description of Image]
-    <source srcset="[Large Image]" media="(min-width:1000px)" type="image/jpeg">
-    <source srcset="[Medium Image]" media="(min-width: 400px) and (max-width: 600px)" type="image/jpeg">
-    <img src="[Fallback Image]" alt="[Image Description]">
+    <source srcset="[Large Image of a German Shepherd]" media="(min-width:1000px)" type="image/jpeg">
+    <source srcset="[small Image of a Hamster]" media="(min-width: 400px) and (max-width: 600px)" type="image/jpeg">
+    <img src="[Fallback Image of an Eagle]" alt="[Image Description]">
   </picture>
 </main>
 </body>
